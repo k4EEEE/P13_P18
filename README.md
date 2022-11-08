@@ -37,8 +37,8 @@ Card Disconnected<br>
 
 
 <br>
-BRACELET	P13
-====================
+# BRACELET	P13
+==
 Terminals Connected <br>
 1.Terminal : PC/SC terminal BROADCOM NFC Smartcard Reader 0<br>
 2.Terminal : PC/SC terminal Gemalto Prox-DU Contact_10800095 0<br>
