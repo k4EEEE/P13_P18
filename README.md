@@ -3,12 +3,12 @@
 APDU Generate AC for P13 P18
 BRACELET	P18
 ====================
-Terminals Connected 
++Terminals Connected 
 1.Terminal : PC/SC terminal BROADCOM NFC Smartcard Reader 0<br>
 2.Terminal : PC/SC terminal Gemalto Prox-DU Contact_10800095 0<br>
 3.Terminal : PC/SC terminal Gemalto Prox-DU Contactless_10800095 0<br>
-card: PC/SC card in Gemalto Prox-DU Contactless_10800095 0, protocol T=1, state OK<br>
-Card present!<br>
++card: PC/SC card in Gemalto Prox-DU Contactless_10800095 0, protocol T=1, state OK<br>
++Card present!<br>
 <br>
 @@ATR: 3B8F80018031E06B04520502FD55555555555598<br>@@
 <br>
@@ -40,12 +40,12 @@ Card Disconnected<br>
 <br>
 # **BRACELET	P13**
 ====
-Terminals Connected <br>
++Terminals Connected <br>
 1.Terminal : PC/SC terminal BROADCOM NFC Smartcard Reader 0<br>
 2.Terminal : PC/SC terminal Gemalto Prox-DU Contact_10800095 0<br>
 3.Terminal : PC/SC terminal Gemalto Prox-DU Contactless_10800095 0<br>
-card: PC/SC card in Gemalto Prox-DU Contactless_10800095 0, protocol T=1, state OK<br>
-Card present!<br>
++card: PC/SC card in Gemalto Prox-DU Contactless_10800095 0, protocol T=1, state OK<br>
++Card present!<br>
 <br>
 @@**ATR:** 3B8F80018031E06B04310502F0555555555555F6<br>@@
 <br>
