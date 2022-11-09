@@ -1,7 +1,7 @@
 ```diff
 # P13_P18
-APDU Generate AC for P13 P18
-BRACELET	P18
+##APDU Generate AC for P13 P18
+#BRACELET	P18
 ====================
 +Terminals Connected 
 1.Terminal : PC/SC terminal BROADCOM NFC Smartcard Reader 0<br>
